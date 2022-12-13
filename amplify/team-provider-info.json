@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mastekpostcodeui-dev-155329-authRole",
+      "UnauthRoleArn": "arn:aws:iam::857207993178:role/amplify-mastekpostcodeui-dev-155329-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::857207993178:role/amplify-mastekpostcodeui-dev-155329-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mastekpostcodeui-dev-155329-deployment",
+      "UnauthRoleName": "amplify-mastekpostcodeui-dev-155329-unauthRole",
+      "StackName": "amplify-mastekpostcodeui-dev-155329",
+      "StackId": "arn:aws:cloudformation:us-east-1:857207993178:stack/amplify-mastekpostcodeui-dev-155329/dc29db50-793d-11ed-8ab0-0a2977c255a7",
+      "AmplifyAppId": "d3fkr2rr0nvlr"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
